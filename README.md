@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 📫 How to reach me **Discord: 13px#4314**
+- 📫 Contact me on Discord **13px#4314**
 
 
 <h3 align="left">Languages and Tools:</h3>
